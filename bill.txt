@@ -1,0 +1,6 @@
+====== PHARMACY BILL ======
+dolo150  x2  = Rs.20
+ibugesic  x5  = Rs.700
+
+TOTAL AMOUNT = Rs. 720
+=============================
